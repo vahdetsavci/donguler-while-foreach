@@ -2,6 +2,6 @@
 
 Bu çalışma PatikaAcademy.dev "While Foreach" dersi için yapılmıştır.
 
-## LICENSE
+### LICENSE
 
 [MIT](https://github.com/vahdetsavci/donguler-while-foreach/blob/main/LICENSE)
